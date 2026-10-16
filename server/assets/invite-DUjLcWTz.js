@@ -1,1 +1,0 @@
-import{n as e,t}from"./lazyRouteComponent-CVxC1lt3.js";var n=e(`/auth/invite`)({validateSearch:e=>({token:typeof e.token==`string`?e.token:void 0}),component:t(()=>import(`./invite-BqDB9rsN.js`),`component`)});export{n as t};

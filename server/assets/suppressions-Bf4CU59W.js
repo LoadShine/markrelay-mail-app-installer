@@ -1,1 +1,0 @@
-import{n as e,t}from"./lazyRouteComponent-CVxC1lt3.js";var n=e(`/_protected/admin/suppressions`)({component:t(()=>import(`./suppressions-BCotZuRm.js`),`component`)});export{n as t};
