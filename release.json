@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "version": "0.4.0",
-  "sourceCommit": "9cfd9006e656a24b67a9d8b83a54d74bb6ce83be",
-  "builtAt": "2026-10-16T14:32:46.230Z"
+  "sourceCommit": "26f2a254e4cee1c5bfd3d6a6185006104dfb5ccf",
+  "builtAt": "2026-10-16T16:23:50.326Z",
+  "notesUrl": "https://markrelay.com/changelog#v0.4.0"
 }

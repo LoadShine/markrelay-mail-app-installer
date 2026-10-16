@@ -1,6 +1,7 @@
 // Runs before every deploy (see package.json): brings this build up to the
 // latest MarkRelay release, so redeploying the Worker is how a deployment
-// updates (Cloudflare: Worker → Deployments → ⋯ → Retry build).
+// updates (Mail: Admin → Settings → Updates POSTs the Worker's Cloudflare
+// deploy hook, which starts such a build).
 //
 // Nothing is committed. This repository keeps the wrangler.jsonc Cloudflare
 // wrote on first deploy (resource names and IDs), and each build starts from
@@ -73,6 +74,8 @@ function keepByBinding(releaseList, currentList, keys) {
 }
 
 const merged = { ...release, name: current.name };
+// Lets Mail name this Worker when it points to the Cloudflare dashboard.
+merged.vars = { ...release.vars, WORKER_NAME: current.name };
 merged.d1_databases = keepByBinding(release.d1_databases, current.d1_databases, [
   "database_name", "database_id", "preview_database_id",
 ]);

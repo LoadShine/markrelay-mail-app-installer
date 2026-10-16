@@ -1,0 +1,1 @@
+import{n as e,t}from"./lazyRouteComponent-CVxC1lt3.js";import{i as n}from"./session-cache-l43Iaksr.js";var r=e(`/_protected/admin/settings`)({loader:()=>n(),component:t(()=>import(`./settings-BKAUG5wV.js`),`component`)});export{r as t};
