@@ -1,0 +1,1 @@
+import{r as e}from"./auth-CtuCj2-H.js";async function t(){let t=await e();return{userId:t.user.id,userRole:t.user.role}}export{t};

@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B74pBk57.js";import{t}from"./broadcast-editor-page-Dbh9tAzq.js";import{n}from"./index-Clg4-Hva.js";var r=e();function i(){let{id:e}=n.useParams();return(0,r.jsx)(t,{routeBroadcastId:e,workspace:`space`})}export{i as component};
