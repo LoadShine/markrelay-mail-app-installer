@@ -3,7 +3,7 @@
 Multi-domain mail, broadcasts, an email API, and webhooks that run in your own
 Cloudflare account.
 
-This repository contains the prebuilt MarkRelay Mail release 0.4.1. It
+This repository contains the prebuilt MarkRelay Mail release 0.5.0. It
 is generated automatically and published only so that licensed MarkRelay
 deployments can install and update it.
 

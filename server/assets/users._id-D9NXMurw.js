@@ -1,0 +1,1 @@
+import{n as e,t}from"./lazyRouteComponent-CVxC1lt3.js";var n=e(`/_protected/admin/users/$id`)({component:t(()=>import(`./users._id-DoZ8245z.js`),`component`)});export{n as t};

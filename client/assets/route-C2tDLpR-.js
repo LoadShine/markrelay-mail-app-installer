@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B74pBk57.js";import{U as t}from"./index-bgw_lJCt.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as component};
