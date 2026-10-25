@@ -1,0 +1,1 @@
+import{i as e}from"./matchContext-CKAon4in.js";import{t}from"./useSelector-BNoAwR0u.js";import{r as n}from"./useRouteContext-BTM3We7c.js";function r(r){let i=e();return t(i.stores.location,n(r,i))}export{r as t};

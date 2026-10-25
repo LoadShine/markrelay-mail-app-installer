@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B74pBk57.js";import{t}from"./developer-guide-page-LLiZTl6c.js";import{t as n}from"./guide-BCCExjc-.js";var r=e();function i(){let{path:e}=n.useSearch();return(0,r.jsx)(t,{workspace:`space`,initialPath:e})}export{i as component};

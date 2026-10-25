@@ -1,0 +1,1 @@
+var e=[`mcp`,`skill`,`api`,`webhooks`];function t(t){return e.includes(t)}export{t};

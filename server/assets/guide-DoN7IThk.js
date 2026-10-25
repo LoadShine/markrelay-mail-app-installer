@@ -1,0 +1,1 @@
+import{n as e,t}from"./lazyRouteComponent-CVxC1lt3.js";import{t as n}from"./guide-paths-BBRRAU5v.js";var r=e(`/_protected/admin/guide`)({validateSearch:e=>n(e.path)?{path:e.path}:{},component:t(()=>import(`./guide-DV9d7Va-.js`),`component`)});export{r as t};
