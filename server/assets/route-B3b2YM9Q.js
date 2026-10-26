@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B74pBk57.js";import{t}from"./console-layout-DN5iY8XG.js";import{t as n}from"./route-DSPXSBbS.js";var r=e();function i(){let{user:e}=n.useRouteContext();return(0,r.jsx)(t,{workspace:`space`,user:e})}export{i as component};

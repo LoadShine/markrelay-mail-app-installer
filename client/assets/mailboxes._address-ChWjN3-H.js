@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B74pBk57.js";import{n as t}from"./index-Dirxn1wv.js";import{t as n}from"./mailbox-detail-page-BwW8Rx5N.js";var r=e();function i(){let{address:e}=t.useParams();return(0,r.jsx)(n,{mailboxAddress:e,workspace:`space`})}export{i as component};

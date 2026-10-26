@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-B74pBk57.js";import{t}from"./webmail-page-CoLii64D.js";import{l as n}from"./index-Cb4-_87J.js";var r=e();function i(){return(0,r.jsx)(t,{...n.useSearch(),workspace:`space`})}export{i as component};

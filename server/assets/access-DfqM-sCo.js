@@ -1,1 +1,0 @@
-import{r as e}from"./auth-6-hhiT9Q.js";async function t(){let t=await e();return{userId:t.user.id,userRole:t.user.role}}export{t};

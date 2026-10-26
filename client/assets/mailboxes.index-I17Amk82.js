@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B74pBk57.js";import{t}from"./mailbox-list-page-C7cCsplY.js";var n=e(),r=()=>(0,n.jsx)(t,{workspace:`admin`});export{r as component};

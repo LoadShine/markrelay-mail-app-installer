@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-B74pBk57.js";import{t}from"./webhooks-view-Bf3FlmNm.js";var n=e(),r=()=>(0,n.jsx)(t,{personal:!0});export{r as component};

@@ -1,1 +1,0 @@
-import{r as e}from"./redirect-DmtLUW0N.js";import{n as t,t as n}from"./lazyRouteComponent-CVxC1lt3.js";import{i as r}from"./session-cache-YzCcFNs-.js";var i=t(`/license`)({loader:async()=>{let t=await r().catch(()=>null);if(!t||!t.reason)throw e({to:`/`});return t},component:n(()=>import(`./license-BOVkU9qG.js`),`component`)});export{i as t};

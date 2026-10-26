@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-B74pBk57.js";import{t}from"./mailbox-list-page-CCVRQQXo.js";var n=e(),r=()=>(0,n.jsx)(t,{workspace:`space`});export{r as component};
